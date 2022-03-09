@@ -1,0 +1,19 @@
+package Tugas_1;
+
+public class Nomer_2c {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double phi=3.14;
+		double d=5;
+		double r=2.5;
+		double t=10;
+		double r2=6.25;
+		
+		double V=phi*r2*t;
+		
+		System.out.println("Volume Tabung= "+V);
+
+	}
+
+}
