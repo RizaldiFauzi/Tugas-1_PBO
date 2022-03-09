@@ -1,0 +1,15 @@
+package Tugas_1;
+
+public class Nomer_2b {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double a=6;
+		double t=8;
+		
+		double L=a*t*0.5;
+		
+		System.out.println("Luas Segitiga= "+L);
+	}
+
+}
